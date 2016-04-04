@@ -1,0 +1,9 @@
+c:\users\callu\documents\visual studio 2010\Projects\YoutubeMusicParser\YoutubeMusicParser\bin\Debug\YoutubeMusicParser.exe
+c:\users\callu\documents\visual studio 2010\Projects\YoutubeMusicParser\YoutubeMusicParser\bin\Debug\YoutubeMusicParser.pdb
+c:\users\callu\documents\visual studio 2010\Projects\YoutubeMusicParser\YoutubeMusicParser\obj\x86\Debug\YoutubeMusicParser.Form1.resources
+c:\users\callu\documents\visual studio 2010\Projects\YoutubeMusicParser\YoutubeMusicParser\obj\x86\Debug\YoutubeMusicParser.Properties.Resources.resources
+c:\users\callu\documents\visual studio 2010\Projects\YoutubeMusicParser\YoutubeMusicParser\obj\x86\Debug\YoutubeMusicParser.csproj.GenerateResource.Cache
+c:\users\callu\documents\visual studio 2010\Projects\YoutubeMusicParser\YoutubeMusicParser\obj\x86\Debug\YoutubeMusicParser.exe
+c:\users\callu\documents\visual studio 2010\Projects\YoutubeMusicParser\YoutubeMusicParser\obj\x86\Debug\YoutubeMusicParser.pdb
+c:\users\callu\documents\visual studio 2010\Projects\YoutubeMusicParser\YoutubeMusicParser\obj\x86\Debug\YoutubeMusicParser.Forms.GUI.resources
+c:\users\callu\documents\visual studio 2010\Projects\YoutubeMusicParser\YoutubeMusicParser\obj\x86\Debug\YoutubeMusicParser.Forms.Overlay.resources
